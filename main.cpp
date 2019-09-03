@@ -1,3 +1,9 @@
+#include <iostream>
+#include <string>
+#include <clocale>
+#include <ctime>
+#include <cmath>
+
 #include "supportF.h"
 
 int main()

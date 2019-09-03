@@ -1,3 +1,9 @@
+#include <iostream>
+#include <string>
+#include <clocale>
+#include <ctime>
+#include <cmath>
+
 #include "supportF.h"
 
 std::string TransferDecimalToAny(long long int number, const unsigned short &toBase)
